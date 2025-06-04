@@ -8,7 +8,7 @@ A simple React + Solana Devnet app to:
 - Transfer SOL to another address
 
 ## 🔗 Live Demo
-https://your-vercel-link.vercel.app
+[Demo Link](https://solana-d-app-green.vercel.app/)
 
 ## 🛠 Tech Stack
 - React
