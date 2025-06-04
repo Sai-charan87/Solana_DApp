@@ -16,8 +16,7 @@ https://your-vercel-link.vercel.app
 - Phantom Wallet
 - Devnet
 
-## 📸 Screenshots
-_(Add some UI screenshots here)_
+
 
 ## ⚙️ Run Locally
 
