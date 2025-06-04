@@ -81,10 +81,9 @@ function App() {
   return (
     <div className="split-container">
       <div className="left-panel">
-        {/* existing wallet code goes here */}
         <div className="container">
           <header>
-            <h1>Hi, My name is Sai Charan</h1>
+            <h1>welcome !!!</h1>
           </header>
 
           <div className="content">

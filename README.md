@@ -17,7 +17,7 @@ https://your-vercel-link.vercel.app
 - Devnet
 
 ## 📸 Screenshots
-_(Add some UI screenshots here)_
+![Solana Wallet dApp interface showing connected Phantom Wallet, SOL balance, airdrop and transfer buttons, and a modern clean layout with a positive and welcoming tone. The screen displays wallet address, balance in SOL, and buttons labeled Connect Wallet, Airdrop 1 SOL, and Transfer SOL. The background is light with purple and blue accents, evoking a friendly and accessible environment.]![App](./src/assets/App.png)
 
 ## ⚙️ Run Locally
 
